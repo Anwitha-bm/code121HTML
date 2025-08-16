@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>REGISTRATION PAGE</title>
+</head>
+</html>
+<body>
+<form>
+<table border =1>
+<tr>
+<td>Student name:</td>
+<td><input type="text"/></td>
+</tr>
+<tr>
+<td>College name</td>
+<td><input type="text"/></td>
+</tr>
+<tr>
+<td>Class</td>
+<td><input type="text"/></td>
+</tr>
+<tr>
+<td>Mobile number</td>
+<td><input type="number"/></td>
+</tr>
+<tr>
+<td>Address</td>
+<td><input type="area"/></td>
+</tr>
+<tr>
+<td>Gender</td>
+<td><input type="radio" name="gender" value="F"/>Female</td>
+<td><input type="radio" name="gender" value="M"/>Male</td>
+</tr>
+<tr>
+<td><input type="submit"></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
+
+

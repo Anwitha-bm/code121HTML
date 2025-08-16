@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>         LOGIN PAGE      </title>
+</head>
+<body>
+<form>
+<table border=1>
+<tr>
+<th>login page</td>
+</tr>
+<tr>
+<td>Username</td>
+<td><input type="text"></input>
+</td>
+</tr>
+<tr>
+<td>password</td>
+<td><input type="password"/>
+</td>
+<tr>
+<td>submit</td>
+<td>input type="submit"></td>
+</table>
+</form>
+</body>
+</html>
