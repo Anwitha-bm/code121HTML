@@ -15,7 +15,7 @@
       <li> Sophia</li>
       <li> Yoonchae</li>
       </ul>
-      <h3>Top songs</h3>
+      <h2>Top songs</h2>
     <ol>
       <li> Gnarly</li><li>Gabriela</li>
       <li> Touch</li><li> My Way</li><li> Gameboy</li>
