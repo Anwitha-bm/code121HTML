@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <title>Katseye-page</title>
-</html>
 <body>
   <h1>Katseye</h1>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-2SBsFl8PUk_fnuWOTmJYSpeRA7Yy23KESAVs9cDkBZFG2xg-H6krun12HIk1IEB2ZY&usqp=CAU">
